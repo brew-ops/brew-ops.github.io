@@ -1,0 +1,15 @@
+.blog-masthead{
+    background-color: #a37c59;
+}
+
+.nav a{
+    color: white;
+}
+
+footer {
+    display: block;
+}
+
+.blog-footer p{
+    text-align: center;
+}
